@@ -17,15 +17,15 @@
 - apply for loan
 - delete account
 
+## to login
+> use id:rg    password:1111
+
 ## Steps to run in your machine
  Run this site on youre local browser
 
  ```bash
- https://stellular-froyo-a5d8a9.netlify.app
+my-bankist-app11.netlify.app
 ```
-
-
-
 
 Clone the project
 
